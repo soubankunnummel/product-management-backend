@@ -7,7 +7,8 @@ import logger from "./utils/logger";
 import { notFound } from "./middleware/not-fount";
 import { errorHandler } from "./middleware/error-handler";
 import router from "./routes";
-// import { logger } from './utils/logger';
+import nodeCron from "node-cron"; // Import node-cron
+import https from "https"; // For sending requests
 
 const app = express();
 
@@ -32,6 +33,18 @@ app.use("/api/v1", router);
 //error handler
 app.use(notFound);
 app.use(errorHandler);
+
+// Cron job to keep the server alive
+nodeCron.schedule("*/5 * * * * *", () => {
+    const url = "https://product-management-backend-849k.onrender.comm/api/v1/"; // Replace with your server URL
+    https.get(url, (res) => { 
+      logger.info(`Pinged ${url} - Status Code: ${res.statusCode}`);
+    }).on("error", (err) => {
+      logger.error(`Error pinging ${url}: ${err.message}`);
+    });
+    logger.info("Cron job executed to keep the server alive.");
+  });
+  
 
 // Handle unhandled promise rejections
 process.on("unhandledRejection", (err: Error) => {

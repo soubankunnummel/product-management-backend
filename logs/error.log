@@ -122,3 +122,43 @@
 2025-04-12T15:38:05.076Z error: Error: Category not found
 2025-04-12T15:40:39.802Z error: Error: Subcategory not found
 2025-04-12T15:41:08.263Z error: Error: Not authorized to access this route
+2025-04-12T16:11:40.480Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:11:45.512Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:11:50.575Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:11:55.609Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:00.620Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:05.648Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:10.678Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:15.713Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:20.757Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:25.785Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:30.837Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:35.882Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:40.894Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:45.922Z error: Error pinging https://product-management-backend-849k.onrender.comm: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:12:55.119Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/auth/me: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:00.141Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/auth/me: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:05.183Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/auth/me: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:10.484Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:15.513Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:20.561Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:25.598Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:30.590Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:35.672Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:40.652Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:45.733Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:50.907Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:13:55.713Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:00.824Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:05.876Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:10.910Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:15.869Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:20.984Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:14:26.012Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:15:00.750Z error: Error: Not Found - /api/v1/
+2025-04-12T16:15:00.993Z error: Error: Not Found - /favicon.ico
+2025-04-12T16:15:56.112Z error: Error: Not Found - /api/v1/
+2025-04-12T16:15:56.176Z error: Error: Not Found - /favicon.ico
+2025-04-12T16:16:04.410Z error: Error: Not Found - /favicon.ico
+2025-04-12T16:16:15.791Z error: Error: Not authorized to access this route
+2025-04-12T16:16:15.832Z error: Error: Not Found - /favicon.ico

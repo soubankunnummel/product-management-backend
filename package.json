@@ -7,13 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf dist && tsc",
     "prestart": "npm run build",
-    "start": "node dist/server.js", 
+    "start": "node dist/server.js",
     "dev": "concurrently \"tsc -w\" \"nodemon dist/server.js\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node-cron": "^3.0.11",
     "bcryptjs": "^3.0.2",
     "concurrently": "^9.1.2",
     "cors": "^2.8.5",
@@ -26,6 +27,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.2",
     "morgan": "^1.10.0",
+    "node-cron": "^3.0.3",
     "rimraf": "^6.0.1",
     "winston": "^3.17.0"
   },

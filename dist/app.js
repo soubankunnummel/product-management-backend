@@ -12,7 +12,8 @@ const logger_1 = __importDefault(require("./utils/logger"));
 const not_fount_1 = require("./middleware/not-fount");
 const error_handler_1 = require("./middleware/error-handler");
 const routes_1 = __importDefault(require("./routes"));
-// import { logger } from './utils/logger';
+const node_cron_1 = __importDefault(require("node-cron")); // Import node-cron
+const https_1 = __importDefault(require("https")); // For sending requests
 const app = (0, express_1.default)();
 // middleware
 app.use((0, morgan_1.default)("dev"));
@@ -30,6 +31,16 @@ app.use("/api/v1", routes_1.default);
 //error handler
 app.use(not_fount_1.notFound);
 app.use(error_handler_1.errorHandler);
+// Cron job to keep the server alive
+node_cron_1.default.schedule("*/5 * * * * *", () => {
+    const url = "https://product-management-backend-849k.onrender.comm/api/v1/"; // Replace with your server URL
+    https_1.default.get(url, (res) => {
+        logger_1.default.info(`Pinged ${url} - Status Code: ${res.statusCode}`);
+    }).on("error", (err) => {
+        logger_1.default.error(`Error pinging ${url}: ${err.message}`);
+    });
+    logger_1.default.info("Cron job executed to keep the server alive.");
+});
 // Handle unhandled promise rejections
 process.on("unhandledRejection", (err) => {
     logger_1.default.error(`-------------------------- ${err.message}----------------------------`);
