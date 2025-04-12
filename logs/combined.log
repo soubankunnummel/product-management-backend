@@ -1,0 +1,386 @@
+2025-04-12T05:59:25.357Z info: MongoDB Connected: localhost
+2025-04-12T06:00:08.260Z info: MongoDB Connected: localhost
+2025-04-12T06:00:13.876Z info: MongoDB Connected: localhost
+2025-04-12T06:02:51.359Z info: MongoDB Connected: localhost
+2025-04-12T06:02:52.772Z info: MongoDB Connected: localhost
+2025-04-12T06:03:02.813Z info: MongoDB Connected: localhost
+2025-04-12T06:03:13.535Z info: MongoDB Connected: localhost
+2025-04-12T06:03:57.882Z info: MongoDB Connected: localhost
+2025-04-12T06:04:07.885Z info: MongoDB Connected: localhost
+2025-04-12T06:04:08.853Z info: MongoDB Connected: localhost
+2025-04-12T06:04:11.278Z info: MongoDB Connected: localhost
+2025-04-12T06:04:16.239Z info: MongoDB Connected: localhost
+2025-04-12T06:04:32.045Z info: MongoDB Connected: localhost
+2025-04-12T06:06:06.304Z info: MongoDB Connected: localhost
+2025-04-12T06:06:11.032Z info: MongoDB Connected: localhost
+2025-04-12T06:06:24.375Z info: MongoDB Connected: localhost
+2025-04-12T06:06:32.366Z info: MongoDB Connected: localhost
+2025-04-12T06:06:42.578Z info: MongoDB Connected: localhost
+2025-04-12T06:06:45.577Z info: MongoDB Connected: localhost
+2025-04-12T06:07:10.732Z info: MongoDB Connected: localhost
+2025-04-12T06:08:00.200Z info: MongoDB Connected: localhost
+2025-04-12T06:08:01.890Z info: MongoDB Connected: localhost
+2025-04-12T06:08:05.820Z info: MongoDB Connected: localhost
+2025-04-12T06:08:18.555Z info: MongoDB Connected: localhost
+2025-04-12T06:08:20.567Z info: MongoDB Connected: localhost
+2025-04-12T06:08:27.548Z info: MongoDB Connected: localhost
+2025-04-12T06:08:33.308Z info: MongoDB Connected: localhost
+2025-04-12T06:08:35.180Z info: MongoDB Connected: localhost
+2025-04-12T06:10:15.952Z info: MongoDB Connected: localhost
+2025-04-12T06:10:37.579Z info: MongoDB Connected: localhost
+2025-04-12T06:12:34.326Z info: MongoDB Connected: localhost
+2025-04-12T06:12:38.931Z info: MongoDB Connected: localhost
+2025-04-12T06:12:50.028Z error: Error: Cannot destructure property 'name' of 'userData' as it is undefined.
+2025-04-12T06:13:39.078Z error: Error: "password" is required
+2025-04-12T06:13:49.361Z error: Error: "password" length must be at least 6 characters long
+2025-04-12T06:17:18.108Z error: Error: Invalid credentials
+2025-04-12T06:19:29.201Z info: MongoDB Connected: localhost
+2025-04-12T06:19:31.782Z info: MongoDB Connected: localhost
+2025-04-12T06:19:35.374Z info: MongoDB Connected: localhost
+2025-04-12T06:19:38.986Z info: MongoDB Connected: localhost
+2025-04-12T06:19:43.998Z info: MongoDB Connected: localhost
+2025-04-12T06:19:50.089Z info: MongoDB Connected: localhost
+2025-04-12T06:19:52.985Z info: MongoDB Connected: localhost
+2025-04-12T06:19:54.912Z info: MongoDB Connected: localhost
+2025-04-12T06:19:57.311Z info: MongoDB Connected: localhost
+2025-04-12T06:20:07.710Z info: MongoDB Connected: localhost
+2025-04-12T06:20:10.330Z info: MongoDB Connected: localhost
+2025-04-12T06:20:14.291Z info: MongoDB Connected: localhost
+2025-04-12T06:20:16.302Z info: MongoDB Connected: localhost
+2025-04-12T06:21:25.542Z info: MongoDB Connected: localhost
+2025-04-12T06:21:42.591Z info: MongoDB Connected: localhost
+2025-04-12T06:21:51.794Z info: MongoDB Connected: localhost
+2025-04-12T06:21:55.288Z info: MongoDB Connected: localhost
+2025-04-12T06:22:01.419Z info: MongoDB Connected: localhost
+2025-04-12T06:22:05.659Z info: MongoDB Connected: localhost
+2025-04-12T06:22:11.882Z info: MongoDB Connected: localhost
+2025-04-12T06:22:47.744Z info: MongoDB Connected: localhost
+2025-04-12T06:23:02.387Z info: MongoDB Connected: localhost
+2025-04-12T06:23:09.078Z info: MongoDB Connected: localhost
+2025-04-12T06:23:30.904Z info: MongoDB Connected: localhost
+2025-04-12T06:23:55.673Z info: MongoDB Connected: localhost
+2025-04-12T06:24:02.856Z info: MongoDB Connected: localhost
+2025-04-12T06:24:04.980Z info: MongoDB Connected: localhost
+2025-04-12T06:24:06.400Z info: MongoDB Connected: localhost
+2025-04-12T06:24:08.439Z info: MongoDB Connected: localhost
+2025-04-12T06:24:12.712Z info: MongoDB Connected: localhost
+2025-04-12T06:24:16.068Z info: MongoDB Connected: localhost
+2025-04-12T06:24:19.381Z info: MongoDB Connected: localhost
+2025-04-12T06:24:22.768Z info: MongoDB Connected: localhost
+2025-04-12T06:24:28.448Z info: MongoDB Connected: localhost
+2025-04-12T06:24:38.070Z info: MongoDB Connected: localhost
+2025-04-12T06:24:43.468Z info: MongoDB Connected: localhost
+2025-04-12T06:24:46.376Z info: MongoDB Connected: localhost
+2025-04-12T06:32:08.718Z info: MongoDB Connected: localhost
+2025-04-12T06:33:18.667Z info: MongoDB Connected: localhost
+2025-04-12T06:33:25.249Z info: MongoDB Connected: localhost
+2025-04-12T06:33:27.481Z info: MongoDB Connected: localhost
+2025-04-12T06:33:46.664Z info: MongoDB Connected: localhost
+2025-04-12T06:33:48.388Z info: MongoDB Connected: localhost
+2025-04-12T06:33:49.478Z info: MongoDB Connected: localhost
+2025-04-12T06:33:54.071Z info: MongoDB Connected: localhost
+2025-04-12T07:12:44.048Z info: MongoDB Connected: localhost
+2025-04-12T07:13:49.179Z info: MongoDB Connected: localhost
+2025-04-12T07:22:33.425Z info: MongoDB Connected: localhost
+2025-04-12T07:22:37.931Z info: MongoDB Connected: localhost
+2025-04-12T07:24:01.216Z info: MongoDB Connected: localhost
+2025-04-12T07:24:32.476Z info: MongoDB Connected: localhost
+2025-04-12T07:24:41.931Z info: MongoDB Connected: localhost
+2025-04-12T07:25:07.485Z info: MongoDB Connected: localhost
+2025-04-12T07:25:19.890Z info: MongoDB Connected: localhost
+2025-04-12T07:25:44.202Z info: MongoDB Connected: localhost
+2025-04-12T07:25:50.657Z info: MongoDB Connected: localhost
+2025-04-12T07:25:55.876Z info: MongoDB Connected: localhost
+2025-04-12T07:25:57.289Z info: MongoDB Connected: localhost
+2025-04-12T07:28:35.334Z info: MongoDB Connected: localhost
+2025-04-12T08:16:19.436Z info: MongoDB Connected: localhost
+2025-04-12T08:19:04.029Z info: MongoDB Connected: localhost
+2025-04-12T08:19:09.940Z info: MongoDB Connected: localhost
+2025-04-12T08:19:11.311Z info: MongoDB Connected: localhost
+2025-04-12T08:19:14.886Z info: MongoDB Connected: localhost
+2025-04-12T08:19:19.066Z info: MongoDB Connected: localhost
+2025-04-12T08:19:21.464Z info: MongoDB Connected: localhost
+2025-04-12T08:19:23.856Z info: MongoDB Connected: localhost
+2025-04-12T08:19:26.109Z info: MongoDB Connected: localhost
+2025-04-12T08:19:30.617Z info: MongoDB Connected: localhost
+2025-04-12T08:19:33.235Z info: MongoDB Connected: localhost
+2025-04-12T08:19:37.587Z info: MongoDB Connected: localhost
+2025-04-12T08:19:39.352Z info: MongoDB Connected: localhost
+2025-04-12T08:19:40.865Z info: MongoDB Connected: localhost
+2025-04-12T08:19:45.023Z info: MongoDB Connected: localhost
+2025-04-12T08:19:54.339Z info: MongoDB Connected: localhost
+2025-04-12T08:28:37.190Z info: MongoDB Connected: localhost
+2025-04-12T08:28:42.093Z info: MongoDB Connected: localhost
+2025-04-12T08:28:44.949Z info: MongoDB Connected: localhost
+2025-04-12T08:28:48.910Z info: MongoDB Connected: localhost
+2025-04-12T08:28:51.636Z info: MongoDB Connected: localhost
+2025-04-12T08:28:57.959Z info: MongoDB Connected: localhost
+2025-04-12T08:28:59.561Z info: MongoDB Connected: localhost
+2025-04-12T08:29:11.246Z info: MongoDB Connected: localhost
+2025-04-12T08:29:20.482Z info: MongoDB Connected: localhost
+2025-04-12T08:30:04.673Z info: MongoDB Connected: localhost
+2025-04-12T08:30:09.474Z info: MongoDB Connected: localhost
+2025-04-12T08:31:15.401Z error: Error: Not authorized to access this route
+2025-04-12T08:33:03.308Z error: TypeError: Cannot read properties of undefined (reading 'category')
+2025-04-12T08:44:30.746Z error: Error: Not Found - /api/v1/categories
+2025-04-12T08:45:20.503Z error: Error: Not Found - /api/v1/categories
+2025-04-12T08:46:17.754Z error: Error: Not Found - /api/v1/categories/
+2025-04-12T08:46:36.457Z error: Error: Not authorized to access this route
+2025-04-12T08:46:48.540Z error: Error: "parent" with value "labtop" fails to match the required pattern: /^[0-9a-fA-F]{24}$/
+2025-04-12T08:47:46.823Z info: MongoDB Connected: localhost
+2025-04-12T08:47:50.121Z info: MongoDB Connected: localhost
+2025-04-12T08:47:52.990Z info: MongoDB Connected: localhost
+2025-04-12T08:47:56.801Z info: MongoDB Connected: localhost
+2025-04-12T08:56:40.143Z error: Error: Not authorized to access this route
+2025-04-12T09:08:21.870Z info: MongoDB Connected: localhost
+2025-04-12T09:08:27.624Z info: MongoDB Connected: localhost
+2025-04-12T09:08:43.750Z info: MongoDB Connected: localhost
+2025-04-12T09:10:39.188Z info: MongoDB Connected: localhost
+2025-04-12T09:10:41.365Z info: MongoDB Connected: localhost
+2025-04-12T09:10:44.595Z info: MongoDB Connected: localhost
+2025-04-12T09:13:53.070Z info: MongoDB Connected: localhost
+2025-04-12T09:25:31.634Z error: Error: Not Found - /api/v1/subcategory/67fa2b2ffa9e77c55d46926e
+2025-04-12T09:28:08.651Z info: MongoDB Connected: localhost
+2025-04-12T09:28:53.009Z info: MongoDB Connected: localhost
+2025-04-12T09:28:54.751Z info: MongoDB Connected: localhost
+2025-04-12T09:28:57.717Z info: MongoDB Connected: localhost
+2025-04-12T09:30:28.410Z error: Error: "title" is required
+2025-04-12T09:30:44.233Z error: Error: Parent category already exists
+2025-04-12T10:00:26.432Z info: MongoDB Connected: localhost
+2025-04-12T10:00:53.963Z info: MongoDB Connected: localhost
+2025-04-12T10:00:58.145Z info: MongoDB Connected: localhost
+2025-04-12T10:02:54.355Z info: MongoDB Connected: localhost
+2025-04-12T10:04:15.508Z info: MongoDB Connected: localhost
+2025-04-12T10:04:24.269Z info: MongoDB Connected: localhost
+2025-04-12T10:04:27.169Z error: Error: Parent category already exists
+2025-04-12T10:05:28.959Z info: MongoDB Connected: localhost
+2025-04-12T10:06:38.038Z error: Error: Parent category not found
+2025-04-12T10:07:11.476Z error: SyntaxError: Expected double-quoted property name in JSON at position 70
+2025-04-12T10:08:22.234Z info: MongoDB Connected: localhost
+2025-04-12T10:08:32.696Z info: MongoDB Connected: localhost
+2025-04-12T10:10:29.989Z info: MongoDB Connected: localhost
+2025-04-12T10:10:34.868Z info: MongoDB Connected: localhost
+2025-04-12T10:10:47.555Z info: MongoDB Connected: localhost
+2025-04-12T10:11:04.771Z error: Error: Parent category already exists
+2025-04-12T10:12:41.757Z error: Error: Parent category already exists
+2025-04-12T10:13:00.700Z info: MongoDB Connected: localhost
+2025-04-12T10:13:03.681Z info: MongoDB Connected: localhost
+2025-04-12T10:13:37.833Z error: SyntaxError: Expected double-quoted property name in JSON at position 68
+2025-04-12T10:13:43.889Z error: Error:   category already exists
+2025-04-12T10:22:37.980Z error: Error:   category already exists
+2025-04-12T10:24:09.424Z info: MongoDB Connected: localhost
+2025-04-12T10:24:12.841Z info: MongoDB Connected: localhost
+2025-04-12T10:24:30.979Z info: MongoDB Connected: localhost
+2025-04-12T10:24:44.025Z info: MongoDB Connected: localhost
+2025-04-12T10:26:20.529Z info: MongoDB Connected: localhost
+2025-04-12T10:26:34.877Z info: MongoDB Connected: localhost
+2025-04-12T10:26:38.627Z info: MongoDB Connected: localhost
+2025-04-12T10:26:52.346Z info: MongoDB Connected: localhost
+2025-04-12T10:27:10.022Z error: Error: "category" is required
+2025-04-12T10:27:35.835Z info: MongoDB Connected: localhost
+2025-04-12T10:27:38.041Z error: Error: "variants[0].sku" is not allowed
+2025-04-12T10:27:50.623Z error: Error: "variants[1].sku" is not allowed
+2025-04-12T10:28:02.906Z error: Error: Subcategory not found
+2025-04-12T10:28:46.279Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:30:45.728Z info: MongoDB Connected: localhost
+2025-04-12T10:30:48.273Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:32:35.452Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:32:47.299Z info: MongoDB Connected: localhost
+2025-04-12T10:32:51.787Z info: MongoDB Connected: localhost
+2025-04-12T10:32:57.590Z info: MongoDB Connected: localhost
+2025-04-12T10:33:13.034Z info: MongoDB Connected: localhost
+2025-04-12T10:33:16.035Z info: MongoDB Connected: localhost
+2025-04-12T10:33:20.402Z info: MongoDB Connected: localhost
+2025-04-12T10:33:23.069Z info: MongoDB Connected: localhost
+2025-04-12T10:33:28.660Z info: MongoDB Connected: localhost
+2025-04-12T10:33:34.908Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:34:39.173Z info: MongoDB Connected: localhost
+2025-04-12T10:35:24.836Z info: MongoDB Connected: localhost
+2025-04-12T10:35:26.028Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:36:07.390Z info: MongoDB Connected: localhost
+2025-04-12T10:36:14.020Z info: MongoDB Connected: localhost
+2025-04-12T10:36:18.243Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:37:02.976Z info: MongoDB Connected: localhost
+2025-04-12T10:37:35.796Z info: MongoDB Connected: localhost
+2025-04-12T10:38:53.779Z info: MongoDB Connected: localhost
+2025-04-12T10:39:03.294Z info: MongoDB Connected: localhost
+2025-04-12T10:39:16.579Z info: MongoDB Connected: localhost
+2025-04-12T10:39:22.416Z info: MongoDB Connected: localhost
+2025-04-12T10:39:31.877Z info: MongoDB Connected: localhost
+2025-04-12T10:39:33.234Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:40:02.655Z info: MongoDB Connected: localhost
+2025-04-12T10:40:02.988Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:45:51.363Z info: MongoDB Connected: localhost
+2025-04-12T10:45:59.159Z info: MongoDB Connected: localhost
+2025-04-12T10:46:18.933Z info: MongoDB Connected: localhost
+2025-04-12T10:46:33.474Z info: MongoDB Connected: localhost
+2025-04-12T10:46:42.177Z info: MongoDB Connected: localhost
+2025-04-12T10:47:14.523Z info: MongoDB Connected: localhost
+2025-04-12T10:47:34.580Z info: MongoDB Connected: localhost
+2025-04-12T10:47:38.462Z info: MongoDB Connected: localhost
+2025-04-12T10:47:55.596Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:49:12.309Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:50:36.113Z info: MongoDB Connected: localhost
+2025-04-12T10:50:40.118Z info: MongoDB Connected: localhost
+2025-04-12T10:50:43.581Z info: MongoDB Connected: localhost
+2025-04-12T10:50:58.083Z info: MongoDB Connected: localhost
+2025-04-12T10:51:06.028Z info: MongoDB Connected: localhost
+2025-04-12T10:51:18.533Z info: MongoDB Connected: localhost
+2025-04-12T10:51:31.446Z info: MongoDB Connected: localhost
+2025-04-12T10:52:09.839Z info: MongoDB Connected: localhost
+2025-04-12T10:52:15.019Z info: MongoDB Connected: localhost
+2025-04-12T10:52:19.454Z info: MongoDB Connected: localhost
+2025-04-12T10:52:23.971Z info: MongoDB Connected: localhost
+2025-04-12T10:52:27.265Z info: MongoDB Connected: localhost
+2025-04-12T10:52:33.531Z info: MongoDB Connected: localhost
+2025-04-12T10:53:26.437Z error: Error: Cast to ObjectId failed for value "iPhone 14" (type string) at path "_id" for model "Product"
+2025-04-12T10:53:56.771Z info: MongoDB Connected: localhost
+2025-04-12T10:54:04.289Z info: MongoDB Connected: localhost
+2025-04-12T10:54:12.137Z info: MongoDB Connected: localhost
+2025-04-12T10:54:13.565Z error: Error: Cast to ObjectId failed for value "iPhone 14" (type string) at path "_id" for model "Product"
+2025-04-12T10:54:46.944Z info: MongoDB Connected: localhost
+2025-04-12T10:54:53.027Z info: MongoDB Connected: localhost
+2025-04-12T10:55:00.115Z info: MongoDB Connected: localhost
+2025-04-12T10:55:05.341Z info: MongoDB Connected: localhost
+2025-04-12T10:56:00.618Z info: MongoDB Connected: localhost
+2025-04-12T10:56:09.299Z error: Error: Product already exists
+2025-04-12T10:58:07.432Z info: MongoDB Connected: localhost
+2025-04-12T10:59:24.668Z info: MongoDB Connected: localhost
+2025-04-12T11:00:15.807Z info: MongoDB Connected: localhost
+2025-04-12T11:00:19.480Z info: MongoDB Connected: localhost
+2025-04-12T11:00:24.823Z info: MongoDB Connected: localhost
+2025-04-12T11:00:28.214Z info: MongoDB Connected: localhost
+2025-04-12T11:00:39.194Z info: MongoDB Connected: localhost
+2025-04-12T11:00:44.749Z info: MongoDB Connected: localhost
+2025-04-12T11:01:33.451Z info: MongoDB Connected: localhost
+2025-04-12T11:02:19.210Z info: MongoDB Connected: localhost
+2025-04-12T11:02:27.205Z info: MongoDB Connected: localhost
+2025-04-12T11:02:41.828Z info: MongoDB Connected: localhost
+2025-04-12T11:02:46.983Z info: MongoDB Connected: localhost
+2025-04-12T11:06:19.189Z error: Error: Product already exists
+2025-04-12T11:17:15.635Z error: Error: Product already exists
+2025-04-12T11:17:16.300Z error: Error:   category already exists
+2025-04-12T11:25:30.711Z error: Error: User with this email already exists
+2025-04-12T11:25:31.157Z error: Error: Product already exists
+2025-04-12T11:25:31.400Z error: Error:   category already exists
+2025-04-12T11:33:28.668Z info: MongoDB Connected: localhost
+2025-04-12T11:33:38.375Z info: MongoDB Connected: localhost
+2025-04-12T11:35:01.861Z info: MongoDB Connected: localhost
+2025-04-12T11:35:06.456Z info: MongoDB Connected: localhost
+2025-04-12T11:35:26.876Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06sfa8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:46.595Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06a8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:48.929Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06a8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:59.095Z error: Error: Not Found - /api/v1/products//sub:ategory/67fa3c57f79948f21a06a8f
+2025-04-12T11:36:09.651Z error: Error: Not Found - /api/v1/products//sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T11:37:48.235Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:11:50.193Z info: MongoDB Connected: localhost
+2025-04-12T14:11:57.793Z info: MongoDB Connected: localhost
+2025-04-12T14:12:02.104Z info: MongoDB Connected: localhost
+2025-04-12T14:12:08.054Z info: MongoDB Connected: localhost
+2025-04-12T14:12:11.359Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:12:40.526Z info: MongoDB Connected: localhost
+2025-04-12T14:12:43.668Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:12:51.597Z info: MongoDB Connected: localhost
+2025-04-12T14:13:30.133Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:14:16.675Z error: CastError: Cast to ObjectId failed for value ":subcategoryId" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:15:32.473Z info: MongoDB Connected: localhost
+2025-04-12T14:16:25.510Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06fa8fs" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:16:34.106Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06fa8fs" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:18:06.933Z error: Error: User with this email already exists
+2025-04-12T14:18:07.713Z error: Error: Product already exists
+2025-04-12T14:18:07.959Z error: Error:   category already exists
+2025-04-12T14:19:37.076Z error: Error: User with this email already exists
+2025-04-12T14:19:37.708Z error: Error: Product already exists
+2025-04-12T14:19:37.880Z error: Error:   category already exists
+2025-04-12T14:21:52.057Z error: Error: User with this email already exists
+2025-04-12T14:21:52.393Z error: Error: Product already exists
+2025-04-12T14:21:52.558Z error: Error:   category already exists
+2025-04-12T14:28:34.310Z error: Error: Email not found
+2025-04-12T14:33:49.786Z info: MongoDB Connected: localhost
+2025-04-12T14:33:55.456Z error: Error: Not authorized to access this route
+2025-04-12T14:34:22.137Z error: Error: Product already exists
+2025-04-12T14:34:27.819Z error: Error: Not authorized to access this route
+2025-04-12T14:35:42.100Z error: Error: User with this email already exists
+2025-04-12T14:35:42.445Z error: Error: Product already exists
+2025-04-12T14:35:42.488Z error: Error: Not authorized to access this route
+2025-04-12T14:35:42.561Z error: Error:   category already exists
+2025-04-12T14:49:12.809Z info: MongoDB Connected: ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net
+2025-04-12T14:49:25.164Z info: MongoDB Connected: ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net
+2025-04-12T14:49:38.615Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.033Z error: Error: User with this email already exists
+2025-04-12T14:50:03.165Z error: Error: Email not found
+2025-04-12T14:50:03.225Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.275Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.350Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.504Z error: Error: User with this email already exists
+2025-04-12T14:50:25.581Z error: Error: Email not found
+2025-04-12T14:50:25.625Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.678Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.735Z error: Error: Not authorized to access this route
+2025-04-12T14:50:37.416Z error: Error: User with this email already exists
+2025-04-12T14:52:35.303Z info: MongoDB Connected: ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net
+2025-04-12T14:52:38.965Z info: MongoDB Connected: ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net
+2025-04-12T14:52:44.869Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net
+2025-04-12T14:52:49.156Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T14:53:02.985Z error: Error: Not authorized to access this route
+2025-04-12T14:53:08.946Z error: Error: "email" must be a valid email
+2025-04-12T14:53:22.463Z error: Error: User with this email already exists
+2025-04-12T14:54:23.130Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T14:54:35.707Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T14:54:45.233Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T14:54:48.796Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T14:54:52.081Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T14:54:59.296Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T14:55:04.735Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T14:55:39.286Z error: Error: User with this email already exists
+2025-04-12T14:57:04.973Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T14:57:15.883Z error: Error: User with this email already exists
+2025-04-12T14:57:22.418Z error: Error: User with this email already exists
+2025-04-12T14:57:37.513Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T14:57:43.312Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T14:57:44.036Z error: Error: User with this email already exists
+2025-04-12T14:59:46.119Z error: Error: User with this email already exists
+2025-04-12T15:00:30.040Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T15:00:47.873Z error: ===================: bad auth : authentication failed===================
+2025-04-12T15:00:59.427Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:01:33.252Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T15:01:40.735Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:02:02.894Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T15:02:14.187Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:02:22.161Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:03:41.589Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-01.4b0ek1d.mongodb.net==============
+2025-04-12T15:03:43.190Z error: Error: User with this email already exists
+2025-04-12T15:06:45.509Z error: Error: User with this email already exists
+2025-04-12T15:07:48.066Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:08:15.977Z error: Error: User with this email already exists
+2025-04-12T15:10:39.934Z error: Error: User with this email already exists
+2025-04-12T15:12:44.537Z error: Error: User with this email already exists
+2025-04-12T15:14:10.893Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-00.4b0ek1d.mongodb.net==============
+2025-04-12T15:14:15.941Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T15:14:24.896Z error: Error: User with this email already exists
+2025-04-12T15:17:08.169Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T15:17:25.634Z info: MongoDB Connected:========== ac-1nxbbx5-shard-00-02.4b0ek1d.mongodb.net==============
+2025-04-12T15:17:39.293Z error: Error: User with this email already exists
+2025-04-12T15:22:09.455Z info: MongoDB Connected:========== test==============
+2025-04-12T15:28:08.580Z info: MongoDB Connected:========== product-management==============
+2025-04-12T15:28:30.786Z error: Error: Email not found
+2025-04-12T15:28:30.866Z error: Error: Not authorized to access this route
+2025-04-12T15:28:30.938Z error: Error: Not authorized to access this route
+2025-04-12T15:28:30.971Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.272Z error: Error: User with this email already exists
+2025-04-12T15:29:31.372Z error: Error: Email not found
+2025-04-12T15:29:31.431Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.458Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.537Z error: Error: Not authorized to access this route
+2025-04-12T15:30:05.930Z error: Error: User with this email already exists
+2025-04-12T15:30:05.995Z error: Error: Email not found
+2025-04-12T15:34:15.074Z error: Error: Not authorized to access this route
+2025-04-12T15:34:22.227Z error: Error: "email" must be a valid email
+2025-04-12T15:35:11.952Z error: Error: Not authorized to access this route
+2025-04-12T15:35:12.019Z error: Error: Not authorized to access this route
+2025-04-12T15:35:12.062Z error: Error: Not authorized to access this route
+2025-04-12T15:36:10.776Z error: Error:   category already exists
+2025-04-12T15:37:51.248Z error: Error: Not authorized to access this route
+2025-04-12T15:38:05.076Z error: Error: Category not found
+2025-04-12T15:40:39.802Z error: Error: Subcategory not found
+2025-04-12T15:41:08.263Z error: Error: Not authorized to access this route

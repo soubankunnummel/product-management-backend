@@ -1,0 +1,124 @@
+2025-04-12T06:12:50.028Z error: Error: Cannot destructure property 'name' of 'userData' as it is undefined.
+2025-04-12T06:13:39.078Z error: Error: "password" is required
+2025-04-12T06:13:49.361Z error: Error: "password" length must be at least 6 characters long
+2025-04-12T06:17:18.108Z error: Error: Invalid credentials
+2025-04-12T08:31:15.401Z error: Error: Not authorized to access this route
+2025-04-12T08:33:03.308Z error: TypeError: Cannot read properties of undefined (reading 'category')
+2025-04-12T08:44:30.746Z error: Error: Not Found - /api/v1/categories
+2025-04-12T08:45:20.503Z error: Error: Not Found - /api/v1/categories
+2025-04-12T08:46:17.754Z error: Error: Not Found - /api/v1/categories/
+2025-04-12T08:46:36.457Z error: Error: Not authorized to access this route
+2025-04-12T08:46:48.540Z error: Error: "parent" with value "labtop" fails to match the required pattern: /^[0-9a-fA-F]{24}$/
+2025-04-12T08:56:40.143Z error: Error: Not authorized to access this route
+2025-04-12T09:25:31.634Z error: Error: Not Found - /api/v1/subcategory/67fa2b2ffa9e77c55d46926e
+2025-04-12T09:30:28.410Z error: Error: "title" is required
+2025-04-12T09:30:44.233Z error: Error: Parent category already exists
+2025-04-12T10:04:27.169Z error: Error: Parent category already exists
+2025-04-12T10:06:38.038Z error: Error: Parent category not found
+2025-04-12T10:07:11.476Z error: SyntaxError: Expected double-quoted property name in JSON at position 70
+2025-04-12T10:11:04.771Z error: Error: Parent category already exists
+2025-04-12T10:12:41.757Z error: Error: Parent category already exists
+2025-04-12T10:13:37.833Z error: SyntaxError: Expected double-quoted property name in JSON at position 68
+2025-04-12T10:13:43.889Z error: Error:   category already exists
+2025-04-12T10:22:37.980Z error: Error:   category already exists
+2025-04-12T10:27:10.022Z error: Error: "category" is required
+2025-04-12T10:27:38.041Z error: Error: "variants[0].sku" is not allowed
+2025-04-12T10:27:50.623Z error: Error: "variants[1].sku" is not allowed
+2025-04-12T10:28:02.906Z error: Error: Subcategory not found
+2025-04-12T10:28:46.279Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:30:48.273Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:32:35.452Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:33:34.908Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:35:26.028Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:36:18.243Z error: Error: Subcategory does not belong to the specified category
+2025-04-12T10:39:33.234Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:40:02.988Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:47:55.596Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:49:12.309Z error: Error: Product validation failed: category: Please add a product category
+2025-04-12T10:53:26.437Z error: Error: Cast to ObjectId failed for value "iPhone 14" (type string) at path "_id" for model "Product"
+2025-04-12T10:54:13.565Z error: Error: Cast to ObjectId failed for value "iPhone 14" (type string) at path "_id" for model "Product"
+2025-04-12T10:56:09.299Z error: Error: Product already exists
+2025-04-12T11:06:19.189Z error: Error: Product already exists
+2025-04-12T11:17:15.635Z error: Error: Product already exists
+2025-04-12T11:17:16.300Z error: Error:   category already exists
+2025-04-12T11:25:30.711Z error: Error: User with this email already exists
+2025-04-12T11:25:31.157Z error: Error: Product already exists
+2025-04-12T11:25:31.400Z error: Error:   category already exists
+2025-04-12T11:35:26.876Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06sfa8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:46.595Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06a8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:48.929Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06a8f" (type string) at path "subcategory" for model "Product"
+2025-04-12T11:35:59.095Z error: Error: Not Found - /api/v1/products//sub:ategory/67fa3c57f79948f21a06a8f
+2025-04-12T11:36:09.651Z error: Error: Not Found - /api/v1/products//sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T11:37:48.235Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:12:11.359Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:12:43.668Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:13:30.133Z error: Error: Not Found - /api/v1/products/sub:ategory/67fa3c57f79948f21a06fa8f
+2025-04-12T14:14:16.675Z error: CastError: Cast to ObjectId failed for value ":subcategoryId" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:16:25.510Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06fa8fs" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:16:34.106Z error: CastError: Cast to ObjectId failed for value "67fa3c57f79948f21a06fa8fs" (type string) at path "subcategory" for model "Product"
+2025-04-12T14:18:06.933Z error: Error: User with this email already exists
+2025-04-12T14:18:07.713Z error: Error: Product already exists
+2025-04-12T14:18:07.959Z error: Error:   category already exists
+2025-04-12T14:19:37.076Z error: Error: User with this email already exists
+2025-04-12T14:19:37.708Z error: Error: Product already exists
+2025-04-12T14:19:37.880Z error: Error:   category already exists
+2025-04-12T14:21:52.057Z error: Error: User with this email already exists
+2025-04-12T14:21:52.393Z error: Error: Product already exists
+2025-04-12T14:21:52.558Z error: Error:   category already exists
+2025-04-12T14:28:34.310Z error: Error: Email not found
+2025-04-12T14:33:55.456Z error: Error: Not authorized to access this route
+2025-04-12T14:34:22.137Z error: Error: Product already exists
+2025-04-12T14:34:27.819Z error: Error: Not authorized to access this route
+2025-04-12T14:35:42.100Z error: Error: User with this email already exists
+2025-04-12T14:35:42.445Z error: Error: Product already exists
+2025-04-12T14:35:42.488Z error: Error: Not authorized to access this route
+2025-04-12T14:35:42.561Z error: Error:   category already exists
+2025-04-12T14:49:38.615Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.033Z error: Error: User with this email already exists
+2025-04-12T14:50:03.165Z error: Error: Email not found
+2025-04-12T14:50:03.225Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.275Z error: Error: Not authorized to access this route
+2025-04-12T14:50:03.350Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.504Z error: Error: User with this email already exists
+2025-04-12T14:50:25.581Z error: Error: Email not found
+2025-04-12T14:50:25.625Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.678Z error: Error: Not authorized to access this route
+2025-04-12T14:50:25.735Z error: Error: Not authorized to access this route
+2025-04-12T14:50:37.416Z error: Error: User with this email already exists
+2025-04-12T14:53:02.985Z error: Error: Not authorized to access this route
+2025-04-12T14:53:08.946Z error: Error: "email" must be a valid email
+2025-04-12T14:53:22.463Z error: Error: User with this email already exists
+2025-04-12T14:55:39.286Z error: Error: User with this email already exists
+2025-04-12T14:57:15.883Z error: Error: User with this email already exists
+2025-04-12T14:57:22.418Z error: Error: User with this email already exists
+2025-04-12T14:57:44.036Z error: Error: User with this email already exists
+2025-04-12T14:59:46.119Z error: Error: User with this email already exists
+2025-04-12T15:00:47.873Z error: ===================: bad auth : authentication failed===================
+2025-04-12T15:03:43.190Z error: Error: User with this email already exists
+2025-04-12T15:06:45.509Z error: Error: User with this email already exists
+2025-04-12T15:08:15.977Z error: Error: User with this email already exists
+2025-04-12T15:10:39.934Z error: Error: User with this email already exists
+2025-04-12T15:12:44.537Z error: Error: User with this email already exists
+2025-04-12T15:14:24.896Z error: Error: User with this email already exists
+2025-04-12T15:17:39.293Z error: Error: User with this email already exists
+2025-04-12T15:28:30.786Z error: Error: Email not found
+2025-04-12T15:28:30.866Z error: Error: Not authorized to access this route
+2025-04-12T15:28:30.938Z error: Error: Not authorized to access this route
+2025-04-12T15:28:30.971Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.272Z error: Error: User with this email already exists
+2025-04-12T15:29:31.372Z error: Error: Email not found
+2025-04-12T15:29:31.431Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.458Z error: Error: Not authorized to access this route
+2025-04-12T15:29:31.537Z error: Error: Not authorized to access this route
+2025-04-12T15:30:05.930Z error: Error: User with this email already exists
+2025-04-12T15:30:05.995Z error: Error: Email not found
+2025-04-12T15:34:15.074Z error: Error: Not authorized to access this route
+2025-04-12T15:34:22.227Z error: Error: "email" must be a valid email
+2025-04-12T15:35:11.952Z error: Error: Not authorized to access this route
+2025-04-12T15:35:12.019Z error: Error: Not authorized to access this route
+2025-04-12T15:35:12.062Z error: Error: Not authorized to access this route
+2025-04-12T15:36:10.776Z error: Error:   category already exists
+2025-04-12T15:37:51.248Z error: Error: Not authorized to access this route
+2025-04-12T15:38:05.076Z error: Error: Category not found
+2025-04-12T15:40:39.802Z error: Error: Subcategory not found
+2025-04-12T15:41:08.263Z error: Error: Not authorized to access this route
