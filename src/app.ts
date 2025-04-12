@@ -35,7 +35,7 @@ app.use(notFound);
 app.use(errorHandler);
 
 // Cron job to keep the server alive
-nodeCron.schedule("*/5 * * * * *", () => {
+nodeCron.schedule("*/5 * * * *", () => {
     const url = "https://product-management-backend-849k.onrender.com/api/v1/";  
     https.get(url, (res) => { 
       logger.info(`Pinged ${url} - Status Code: ${res.statusCode}`);

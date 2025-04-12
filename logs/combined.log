@@ -533,3 +533,308 @@
 2025-04-12T16:20:55.388Z info: Cron job executed to keep the server alive.
 2025-04-12T16:20:55.466Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
 2025-04-12T16:25:31.196Z info: MongoDB Connected:========== product-management==============
+2025-04-12T16:25:36.349Z info: MongoDB Connected:========== product-management==============
+2025-04-12T16:25:40.793Z info: Cron job executed to keep the server alive.
+2025-04-12T16:25:44.317Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:25:45.828Z info: Cron job executed to keep the server alive.
+2025-04-12T16:25:46.047Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:25:50.852Z info: Cron job executed to keep the server alive.
+2025-04-12T16:25:51.045Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:25:55.887Z info: Cron job executed to keep the server alive.
+2025-04-12T16:25:56.244Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:00.923Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:01.142Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:05.956Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:06.148Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:10.994Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:11.348Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:15.005Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:15.144Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:20.048Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:20.245Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:25.093Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:25.651Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:30.120Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:30.344Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:35.156Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:35.344Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:40.209Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:40.337Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:26:45.232Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:45.386Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:26:50.263Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:54.438Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:26:55.292Z info: Cron job executed to keep the server alive.
+2025-04-12T16:26:55.517Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:00.326Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:00.629Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:05.346Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:05.475Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:10.382Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:10.504Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:15.409Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:15.662Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:20.454Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:20.592Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:25.486Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:25.623Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:27:30.513Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:30.649Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:35.554Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:35.721Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:40.595Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:40.847Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:45.637Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:45.874Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:50.670Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:50.844Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:27:55.709Z info: Cron job executed to keep the server alive.
+2025-04-12T16:27:55.932Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:00.730Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:00.868Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:05.761Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:06.422Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:10.786Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:10.922Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:15.819Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:16.019Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:20.840Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:21.353Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:25.879Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:26.119Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:30.905Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:31.523Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:35.933Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:36.131Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:40.965Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:41.129Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:45.991Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:46.242Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:50.028Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:50.230Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:28:55.072Z info: Cron job executed to keep the server alive.
+2025-04-12T16:28:55.286Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:29:00.112Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:00.953Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:29:05.152Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:05.500Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:29:10.183Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:10.317Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:15.217Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:15.370Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:20.245Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:20.624Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:25.281Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:25.688Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:30.304Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:30.444Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:35.346Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:35.465Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:40.386Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:40.626Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:45.435Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:45.557Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:50.463Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:50.731Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:29:55.506Z info: Cron job executed to keep the server alive.
+2025-04-12T16:29:55.639Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:00.551Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:00.764Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:30:05.591Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:05.810Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:30:10.627Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:10.802Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:30:15.666Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:15.798Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:20.700Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:20.828Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:25.734Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:25.904Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:30.769Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:30.901Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:35.802Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:35.945Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:40.825Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:41.032Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:45.873Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:46.130Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:50.896Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:51.135Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:30:55.940Z info: Cron job executed to keep the server alive.
+2025-04-12T16:30:56.240Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:00.988Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:01.235Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:05.027Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:05.338Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:10.092Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:10.329Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:15.122Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:15.335Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:20.140Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:20.280Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:25.180Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:25.386Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:30.212Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:30.382Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:35.235Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:35.372Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:31:40.263Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:40.508Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 502
+2025-04-12T16:31:45.299Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:45.430Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:50.331Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:50.528Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:31:55.372Z info: Cron job executed to keep the server alive.
+2025-04-12T16:31:55.500Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:00.402Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:00.537Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:05.429Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:05.566Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:10.456Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:10.590Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:15.484Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:15.629Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:20.519Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:20.737Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:25.557Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:25.680Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:30.575Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:30.797Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:35.615Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:35.851Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:40.650Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:40.766Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:45.673Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:45.801Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:50.725Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:50.855Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:32:55.766Z info: Cron job executed to keep the server alive.
+2025-04-12T16:32:55.903Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:00.799Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:01.034Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:05.848Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:06.161Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:10.865Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:10.996Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:15.895Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:16.033Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:20.923Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:21.080Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:25.960Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:26.091Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:30.995Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:31.439Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:35.024Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:35.547Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:40.060Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:40.393Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:45.072Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:45.260Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:50.104Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:50.321Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:33:55.135Z info: Cron job executed to keep the server alive.
+2025-04-12T16:33:55.286Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:00.179Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:00.441Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:05.191Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:05.332Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:10.220Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:10.549Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:15.264Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:15.415Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:20.295Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:21.178Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:25.343Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:25.475Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:30.369Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:30.536Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:35.391Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:35.983Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:40.432Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:40.704Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:45.464Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:47.165Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:50.490Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:50.630Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:34:55.527Z info: Cron job executed to keep the server alive.
+2025-04-12T16:34:55.870Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:00.558Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:00.678Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:05.597Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:05.796Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:10.617Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:10.830Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:15.656Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:15.831Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:20.690Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:20.815Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:25.717Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:25.869Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:30.749Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:31.000Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:35.780Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:35.931Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:40.828Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:41.011Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:45.853Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:46.023Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:50.874Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:51.264Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 500
+2025-04-12T16:35:55.902Z info: Cron job executed to keep the server alive.
+2025-04-12T16:35:56.066Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:00.933Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:01.271Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:05.965Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:06.119Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:10.009Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:10.180Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:15.066Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:15.202Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:20.102Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:20.239Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:25.129Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:25.762Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:30.157Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:30.417Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:35.193Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:35.365Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:40.238Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:40.418Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:45.265Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:45.432Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:50.293Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:50.747Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:36:55.315Z info: Cron job executed to keep the server alive.
+2025-04-12T16:36:55.776Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:00.365Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:00.588Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:05.392Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:05.564Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:10.439Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:10.580Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:15.486Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:15.691Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:20.527Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:20.665Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:25.564Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:25.937Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:30.596Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:30.873Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:35.620Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:35.970Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:40.672Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:40.883Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:45.722Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:46.051Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:50.767Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:50.921Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:37:55.795Z info: Cron job executed to keep the server alive.
+2025-04-12T16:37:56.020Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:38:00.831Z info: Cron job executed to keep the server alive.
+2025-04-12T16:38:00.957Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:38:05.870Z info: Cron job executed to keep the server alive.
+2025-04-12T16:38:06.003Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:38:10.899Z info: Cron job executed to keep the server alive.
+2025-04-12T16:38:11.057Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
+2025-04-12T16:38:15.929Z info: Cron job executed to keep the server alive.
+2025-04-12T16:38:16.260Z info: Pinged https://product-management-backend-849k.onrender.com/api/v1/ - Status Code: 429
