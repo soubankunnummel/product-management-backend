@@ -483,3 +483,50 @@
 2025-04-12T16:16:15.791Z error: Error: Not authorized to access this route
 2025-04-12T16:16:15.832Z error: Error: Not Found - /favicon.ico
 2025-04-12T16:18:40.655Z info: MongoDB Connected:========== product-management==============
+2025-04-12T16:18:57.229Z info: MongoDB Connected:========== product-management==============
+2025-04-12T16:19:00.665Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:00.738Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:05.700Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:05.793Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:10.734Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:10.809Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:15.770Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:15.844Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:20.793Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:20.870Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:25.824Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:25.898Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:30.851Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:30.924Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:35.870Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:35.876Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:40.899Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:40.973Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:45.937Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:46.012Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:50.953Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:51.051Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:19:55.981Z info: Cron job executed to keep the server alive.
+2025-04-12T16:19:56.055Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:00.006Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:00.007Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:05.040Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:05.114Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:10.088Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:10.162Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:15.117Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:15.193Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:20.144Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:20.220Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:25.181Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:25.262Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:30.221Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:30.298Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:35.254Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:35.330Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:40.284Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:40.361Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:45.321Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:45.396Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:50.360Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:50.453Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
