@@ -33,7 +33,7 @@ app.use(not_fount_1.notFound);
 app.use(error_handler_1.errorHandler);
 // Cron job to keep the server alive
 node_cron_1.default.schedule("*/5 * * * * *", () => {
-    const url = "https://product-management-backend-849k.onrender.comm/api/v1/"; // Replace with your server URL
+    const url = "https://product-management-backend-849k.onrender.com/api/v1/";
     https_1.default.get(url, (res) => {
         logger_1.default.info(`Pinged ${url} - Status Code: ${res.statusCode}`);
     }).on("error", (err) => {

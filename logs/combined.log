@@ -530,3 +530,6 @@
 2025-04-12T16:20:45.396Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
 2025-04-12T16:20:50.360Z info: Cron job executed to keep the server alive.
 2025-04-12T16:20:50.453Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:20:55.388Z info: Cron job executed to keep the server alive.
+2025-04-12T16:20:55.466Z error: Error pinging https://product-management-backend-849k.onrender.comm/api/v1/: getaddrinfo ENOTFOUND product-management-backend-849k.onrender.comm
+2025-04-12T16:25:31.196Z info: MongoDB Connected:========== product-management==============
